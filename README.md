@@ -14,9 +14,9 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m  a Software Engineer and contributing to frontend and backend for building web applications.
--     
+-    Java SE 
 - 🌱 Exploring Advance Java (Jakarta EE).
-- ⚡ In my free time I solve problems on HackerRank and read tech articles.
+- ⚡ In my free time I solve problems on leetcode and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-nikhil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-dongarwar-bba74b1b8/)
 
 ---
